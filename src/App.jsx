@@ -46,7 +46,7 @@ export default function ExplicacoesSite() {
           <CardContent className="p-6">
             <h2 className="text-2xl font-semibold mb-4">📨 Contacta-me</h2>
             <form
-              action="https://formspree.io/f/moqgyywj"
+              action="https://formspree.io/f/mjkwvyjq"
               method="POST"
               className="space-y-4"
             >
